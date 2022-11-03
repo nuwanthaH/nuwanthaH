@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nuwanthaH
-- 👀 I’m interested in UX/UI Design, Cryptography, Data Science
-- 🌱 I’m currently learning Blockchain Dev, 
-- 💞️ I’m looking to collaborate on Data Science, Data Visualization Projects
+- 👀 I’m interested in UI/UX Design, Cryptography, Data Science.
+- 🌱 I’m currently learning Frontend Dev. 
+- 💞️ I’m looking to collaborate on UI/UX, Data Science, Data Visualization Projects
 - 📫 How to reach me simply find me on instagram @nuwanthahm
 
 <!---
